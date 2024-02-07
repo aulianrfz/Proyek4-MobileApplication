@@ -1,7 +1,9 @@
 # Proyek4-MobileApplication
 
+Ketua : 
+Aulia Nurul Fauziah (221511005)
+
 Anggota : 
-- Aulia Nurul Fauziah (221511005)
 - Fathia Qurrata Aini Yuner (221511009)
 - Ryanda Afriza (221511029)
 
